@@ -1,6 +1,6 @@
-# home_data数据集
+# home_data数据集 - 一个简单的demo
 
-> https://www.kaggle.com/code/haoyuchui/exercise-model-validation/
+> https://www.kaggle.com/learn/intro-to-machine-learning
 
 ### 引入机器学习库
 

@@ -1,6 +1,6 @@
-# Intro to Deep Learning
+# Intro to Deep Learning 深度学习入门
 
-> https://www.kaggle.com/code/ryanholbrook/a-single-neuron
+> https://www.kaggle.com/learn/intro-to-deep-learning
 
 ```Python
 from tensorflow import keras

@@ -1,6 +1,6 @@
-# Titanic数据集
+# Titanic - Kaggle实战
 
-> https://www.kaggle.com/code/haoyuchui/detailed-and-typical-solution-ensemble-modeling/edit
+> https://www.kaggle.com/c/titanic
 
 ### 引入数据
 

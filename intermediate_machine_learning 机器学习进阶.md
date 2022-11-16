@@ -1,6 +1,6 @@
-# Machine Learning Intermediate
+# Machine Learning Intermediate 机器学习进阶
 
-> https://www.kaggle.com/code/haoyuchui/exercise-introduction
+> https://www.kaggle.com/learn/intermediate-machine-learning
 
 ### 处理缺失数据
 

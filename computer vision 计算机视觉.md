@@ -1,4 +1,4 @@
-# Computer Vision
+# Computer Vision 计算机视觉
 
 > https://www.kaggle.com/code/ryanholbrook/the-convolutional-classifier
 

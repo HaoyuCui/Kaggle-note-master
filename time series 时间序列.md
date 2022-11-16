@@ -1,6 +1,6 @@
-# Time Series
+# Time Series 时间序列
 
-> https://www.kaggle.com/code/haoyuchui/exercise-linear-regression-with-time-series/edit
+> https://www.kaggle.com/learn/time-series
 
 ### Linear Regression with Time Series
 
